@@ -1,2 +1,2 @@
 # RecipeBook-Angular8-
-Beginner project of angular for practice
+Beginner project of angular 8 for practice
